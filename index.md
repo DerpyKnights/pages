@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: "My first Blog"
+date: 2025-08-10
 ---
-
-hello
+testing
